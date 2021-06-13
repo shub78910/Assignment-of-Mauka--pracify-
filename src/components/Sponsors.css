@@ -1,0 +1,29 @@
+.sponsors-wrapper {
+    text-align: center;
+}
+
+.sponsorCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsors-wrapper h1 {
+    color: #374b5c;
+    font-weight: 100;
+    font-family: 'Libre Baskerville', serif;
+    margin: 1rem;
+}
+
+.sponsors-wrapper p {
+    width: 30rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    color: #374b5c;
+    opacity: 0.8;
+}
+
+.sponsorCards img {
+    margin: 4rem 4rem;
+}

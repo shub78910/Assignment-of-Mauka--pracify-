@@ -1,0 +1,31 @@
+.features-wrapper{
+    text-align: center;
+}
+
+.featureCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.features-wrapper h1{
+    color: #374b5c;
+    font-weight: 100;
+    font-family: 'Libre Baskerville', serif;
+    margin: 1rem;
+}
+.features-wrapper p{
+    width: 30rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    color: #374b5c;
+    opacity: 0.81;
+}
+.featureCards img{
+    margin: 4rem 2rem;
+}
+.featureCards img:hover{
+    box-shadow: 5px 10px 20px #888888;
+    transition: ease-in 0.2s;
+}

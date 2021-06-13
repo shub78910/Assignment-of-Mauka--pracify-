@@ -1,0 +1,50 @@
+.testimonial-wrapper{
+    text-align: center;
+    background: url("../asset/Group_134.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:-15rem;
+}
+.testimonial-wrapper p{
+    width: 50%;
+    margin: auto;
+}
+.testimonial-wrapper .inverted-comma{
+    margin: 2rem;
+}
+
+.testimonial-wrapper .profile{
+    border-radius: 50%;
+    width: 8rem;
+    height: 8rem;
+    margin: 1.873rem 8.963rem 1.156rem 8.938rem;  
+    object-fit: contain;
+}
+
+.testimonial-wrapper h2{
+    color: #374b5c;
+    font-weight: 100;
+    font-family: 'Libre Baskerville', serif;
+    margin: 1rem;
+}
+
+.testimonial-wrapper p{
+    width: 30rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    color: #374b5c;
+    opacity: 0.8;
+}
+.testimonial-wrapper h1{
+    margin-top: 5rem;
+    color: #374b5c;
+    font-weight: 100;
+    font-family: 'Libre Baskerville', serif;
+    margin: 1rem;
+}
+
+.testimonial-wrapper input{
+    border: none;
+    width: 10rem;
+    padding: 0.5rem;
+}
